@@ -1,0 +1,26 @@
+{
+  "name": "person-list-view-ts",
+  "version": "1.0.0",
+  "description": "A list view that shows and modifies personal data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muratbiyik-hcs/person-list-view-ts.git"
+  },
+  "author": "Murat BIYIK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muratbiyik-hcs/person-list-view-ts/issues"
+  },
+  "homepage": "https://github.com/muratbiyik-hcs/person-list-view-ts#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "peerDependencies": {
+    "react": "17.0.2",
+    "react-native": "0.68.1"
+  }
+}
